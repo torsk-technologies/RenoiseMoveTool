@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.1</ApiVersion>
+  <Id>xyz.torsktechnologies.movetool</Id>
+  <Version>1.0</Version>
+  <Author>torsktechnologies@gmail.com</Author>
+  <Name>Move Tool</Name>
+  <Description>Adds shortcuts for moving notes up or down</Description>
+  <Homepage>http://www.torsktechnologies.xyz</Homepage>
+</RenoiseScriptingTool>
